@@ -1181,6 +1181,10 @@ https://137840.global.ssl.fastly.net/edge/live_6b7c6e205afb11ebb010f5a331abaf98/
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Alabbassia TV" tvg-logo="https://i.imgur.com/BPyrjO5.png" tvg-id="AlabbassiaTV.iq" tvg-chno="14" tvg-country="IQ" group-title="Iraq",Alabbassia TV
 https://stream.alabbassia.com/live/alabbassia/index.m3u8
+#EXTINF:-1  tvg-name="ONE Plus" tvg-logo="https://i.postimg.cc/prWcC8nd/photo-2026-05-29-00-51-08.png" group-title="Iraq",ONE Plus
+https://lbgo.bozztv.com/ssh101/ssh101/oneplus4k/chunks.m3u8
+#EXTINF:-1  tvg-name="ONE Kids" tvg-logo="https://i.postimg.cc/NGCkSZ3Z/one-kids.png" group-title="KIDS",ONE Kids
+https://lbgo.bozztv.com/ssh101/ssh101/onekids4k/chunks.m3u8
 #EXTINF:-1 tvg-name="TG4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TG4_logo.svg/1024px-TG4_logo.svg.png" tvg-id="TG4.ie" tvg-chno="4" tvg-country="IE" group-title="Ireland",TG4
 https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
 #EXTINF:-1 tvg-name="Houses of the Oireachtas Channel" tvg-logo="https://i.imgur.com/aC4fsCI.png" tvg-id="OireachtasTV.ie" tvg-chno="22" tvg-country="IE" group-title="Ireland",Houses of the Oireachtas Channel
